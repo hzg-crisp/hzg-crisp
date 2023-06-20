@@ -22,6 +22,7 @@ Rear and Yumoto Development Engineers
 
 - 🌱 I’m currently learning **Kubernetes** and **Rust**.
 - 💬 Ask me about **Kubernetes,Golang,Rust** technology.
+- 🏊 **Hobbies :** Running :running: & basketball :basketball:
 - ⛽️ Fun fact: 
   - Watching the sunrise, watching the sunset, watching you.
   - "The rover of life".
@@ -36,6 +37,9 @@ Rear and Yumoto Development Engineers
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=hzg-crisp&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
+
+
+![ ](https://raw.githubusercontent.com/hoochanlon/hoochanlon/master/assets/github-contribution-grid-snake.svg)
 
 <!--
 ## :bar_chart: Monthly coding time
