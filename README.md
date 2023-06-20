@@ -36,7 +36,7 @@ Rear and Yumoto Development Engineers
 [![jianshu](https://img.shields.io/badge/-jianshu-c14438?style=flat-square&logo=简&logoColor=white)](https://www.jianshu.com/u/802686b5f92e)
 
 ## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=hzg_crisp&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
+<img src="https://github-profile-trophy.vercel.app/?username=hzg-crisp&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
 <!--
 ## :bar_chart: Monthly coding time
