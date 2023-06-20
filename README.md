@@ -21,7 +21,7 @@ Rear and Yumoto Development Engineers
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hzg-crisp&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🌱 I’m currently learning **Kubernetes** and **Rust**.
-- 💬 Ask me about **Kubernetes,Golang,Rust* technology.
+- 💬 Ask me about **Kubernetes,Golang,Rust** technology.
 - ⛽️ Fun fact: 
   - Watching the sunrise, watching the sunset, watching you.
   - "The rover of life".
