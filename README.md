@@ -24,9 +24,9 @@ Rear and Yumoto Development Engineers
 - 💬 Ask me about **Kubernetes,Golang,Rust** technology.
 - 🏊 **Hobbies :** Running :running: & basketball :basketball:
 - ⛽️ Fun fact: 
-  - Watching the sunrise, watching the sunset, watching you.
   - "The rover of life".
   - Love to learn new technology.
+  - Watching the sunrise, watching the sunset, watching you.
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=hzg-crisp&color=green)
